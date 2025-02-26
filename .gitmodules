@@ -1,0 +1,3 @@
+[submodule "sos_read"]
+	path = sos_read
+	url = https://github.com/podaac/confluence_sos_read
